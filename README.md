@@ -1,4 +1,4 @@
-# Currently working on
+# Currently working on:
 ![Aster](https://socialify.git.ci/Parsifal1916/Aster/image?font=Jost&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F9a45e55e-dd57-4522-8dba-b668f4f6a0fc&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark)
 
 # 💻 Tech Stack:
